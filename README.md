@@ -5,7 +5,7 @@ representa a **segunda parte** do projeto e é responsável pela lógica de redi
 pela configuração do **API Gateway** para centralizar e gerenciar as requisições.
 
 A primeira parte do projeto está disponível no repositório:
-[Create URL Shortener](https://github.com/Robson16/nlw17-inorbit-nodejs)
+[Create URL Shortener](https://github.com/Robson16/CreateUrlShortener)
 
 Este contém a função Lambda responsável por criar URLs encurtadas dinamicamente e integrá-las ao Amazon S3.
 
