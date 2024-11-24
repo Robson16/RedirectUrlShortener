@@ -5,7 +5,7 @@ representa a **segunda parte** do projeto e é responsável pela lógica de redi
 pela configuração do **API Gateway** para centralizar e gerenciar as requisições.
 
 A primeira parte do projeto está disponível no repositório:
-[Create URL Shortener](https://github.com/Robson16/nlw17-inorbit-nodejs)
+[Create URL Shortener](https://github.com/Robson16/CreateUrlShortener)
 
 Este contém a função Lambda responsável por criar URLs encurtadas dinamicamente e integrá-las ao Amazon S3.
 
@@ -48,13 +48,12 @@ Este projeto utiliza as seguintes tecnologias e bibliotecas:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Robson16/RedirectUrlShortener.git
-
-```
+   ```
 
 2. Configure suas credenciais da AWS para acessar os serviços necessários.
 
 3. Compile o projeto:
-    ```
+   ```
    mvn clean package
    ```
 
