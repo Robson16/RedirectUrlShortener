@@ -67,4 +67,4 @@ Este projeto utiliza as seguintes tecnologias e bibliotecas:
 - [Amazon S3](https://aws.amazon.com/pt/s3/)
 - [Amazon API Gateway](https://aws.amazon.com/pt/api-gateway/)
 
-##💻 Desenvolvido por Robson Henrique Rodrigues durante o evento *Curso Gratuito de Java* da Rocketseat. 🧑‍💻
+## 💻 Desenvolvido por Robson Henrique Rodrigues durante o evento *Curso Gratuito de Java* da Rocketseat. 🧑‍💻
